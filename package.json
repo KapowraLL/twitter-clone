@@ -5,6 +5,12 @@
   "main": "index.tsx",
   "repository": "git@gitlab.com:app-training/twitter-clone.git",
   "author": "KapowraLL",
-  "license": "MIT"
-
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "yarn workspace twitter-clone build"
+  },
+  "workspaces": [
+    "twitter-clone"
+  ]
 }
