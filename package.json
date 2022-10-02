@@ -1,0 +1,10 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "twitter clone package",
+  "main": "index.tsx",
+  "repository": "git@gitlab.com:app-training/twitter-clone.git",
+  "author": "KapowraLL",
+  "license": "MIT"
+
+}
