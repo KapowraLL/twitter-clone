@@ -8,7 +8,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "yarn workspace twitter-clone build"
+    "build": "yarn workspace twitter-clone build",
+    "test": "yarn workspace twitter-clone test"
   },
   "workspaces": [
     "twitter-clone"
